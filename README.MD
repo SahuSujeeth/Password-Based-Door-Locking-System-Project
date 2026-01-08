@@ -106,9 +106,6 @@ Restricted areas
 
 Educational embedded system projects
 
-## 📸 Demo
-
-(Add a photo or short video of the working project here)
 
 ## 📚 What I Learned
 
