@@ -54,8 +54,8 @@ Alarm activation for multiple wrong password entries
 
 Automatic door locking after access
 
-🛠 Components & Technologies Used
-Hardware
+## 🛠 Components & Technologies Used
+## Hardware
 
 Arduino board
 
@@ -71,7 +71,7 @@ LED
 
 Connecting wires
 
-Software
+## Software
 
 Embedded C (Arduino C++)
 
@@ -85,7 +85,7 @@ LiquidCrystal.h
 
 Servo.h
 
-📁 Project Structure
+## 📁 Project Structure
 ```
 Password-Based-Door-Lock-System/
 │
