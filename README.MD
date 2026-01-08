@@ -91,7 +91,7 @@ Password-Based-Door-Lock-System/
 │
 ├── door_lock.ino
 ├── README.md
-└── circuit_diagram.png (optional)
+└── circuit_diagram.png 
 ```
 
  ## 🚀 Applications
